@@ -1,0 +1,146 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acceso</title>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css">
+    
+    <!-- CSS de la aplicación -->
+    <link href="{% static 'css/login.css' %}" rel="stylesheet" type="text/css" />
+    
+    <!-- FontAwesome para iconos -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    
+    
+</head>
+<body>
+
+    <div class="login-container">
+        <h2>Acceso</h2>
+
+        <form method="POST">
+            {% csrf_token %}
+            <div class="mb-3 position-relative">
+                <label class="form-label text-start d-block">Correo electrónico</label>
+                <input type="email" class="form-control ps-5 {% if form.username.errors %}is-invalid{% endif %}"
+                    name="username" placeholder="usuario@costaricaforwarding.com" required>
+                <!-- <div id="email-icon" class="icon-container"></div> -->
+                <div id="email-icon" class="icon-container" data-json="{% static 'icon/mail.json' %}"></div>
+
+                <!-- Muestra errores de Django -->
+                {% if form.username.errors %}
+                    <div class="invalid-feedback">
+                        {% for error in form.username.errors %}
+                            {{ error }}
+                        {% endfor %}
+                    </div>
+                {% endif %}
+            </div>
+            
+            <div class="mb-3 position-relative">
+                <label class="form-label text-start d-block">Contraseña</label>
+                <div class="position-relative">
+                    
+                    <div id="lock-icon" class="position-absolute"  data-json="{% static 'icon/lock.json' %}"
+                        style="left: 10px; top: 50%; transform: translateY(-50%); width: 24px; height: 24px;">
+                    </div>
+                
+            
+                    <!-- Input de Contraseña -->
+                    <input type="password" id="password-field" class="form-control {% if form.password.errors %}is-invalid{% endif %}" 
+                        name="password" required style="padding-left: 50px; padding-right: 40px;"> 
+            
+                    <!-- Icono de Ojo para Mostrar/Ocultar Contraseña -->
+                    <i id="toggle-password" class="fa fa-eye position-absolute" 
+                        style="right: 10px; top: 50%; transform: translateY(-50%); cursor: pointer;"></i>
+                    
+                    <!-- Muestra errores de Django -->
+                    {% if form.password.errors %}
+                        <div class="invalid-feedback">
+                            {% for error in form.password.errors %}
+                                {{ error }}
+                            {% endfor %}
+                        </div>
+                    {% endif %}
+                </div>
+            </div>
+
+            <!-- Muestra errores generales de autenticación -->
+            {% if form.non_field_errors %}
+                <div class="alert alert-danger">
+                    {% for error in form.non_field_errors %}
+                        {{ error }}
+                    {% endfor %}
+                </div>
+            {% endif %}
+            
+            <button type="submit" class="btn btn-login">Iniciar sesión</button>
+        </form>
+
+        <a href="{% url 'password_reset' %}" class="forgot-password">¿Olvidaste tu contraseña?</a>
+    </div>
+
+    <!-- Lottie y manejo de iconos animados -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.9.6/lottie.min.js"></script>
+
+    <script>
+        // Cargar animaciones de Lottie con URLs absolutas
+        document.addEventListener("DOMContentLoaded", function () {
+            let emailIcon = document.getElementById("email-icon");
+            let lockIcon = document.getElementById("lock-icon");
+
+            let mailJsonUrl = emailIcon.getAttribute("data-json");
+            let lockJsonUrl = lockIcon.getAttribute("data-json");
+
+
+            fetch(mailJsonUrl)
+                .then(response => response.json())
+                .then(data => {
+                    lottie.loadAnimation({
+                        container: emailIcon,
+                        renderer: "svg",
+                        loop: true,
+                        autoplay: true,
+                        animationData: data
+                    });
+                })
+                .catch(error => console.error("Error cargando mail.json:", error));
+
+            fetch(lockJsonUrl)
+                .then(response => response.json())
+                .then(data => {
+                    lottie.loadAnimation({
+                        container: lockIcon,
+                        renderer: "svg",
+                        loop: true,
+                        autoplay: true,
+                        animationData: data
+                    });
+                })
+                .catch(error => console.error("Error cargando lock.json:", error));
+        });
+
+        // Función para mostrar u ocultar la contraseña
+        document.getElementById("toggle-password").addEventListener("click", function() {
+            let passwordField = document.getElementById("password-field");
+            let icon = document.getElementById("toggle-password");
+
+            if (passwordField.type === "password") {
+                passwordField.type = "text"; // Mostrar contraseña
+            } else {
+                passwordField.type = "password"; // Ocultar contraseña
+            }
+
+            // Alternar entre el icono de ojo abierto y cerrado
+            icon.classList.toggle("fa-eye");
+            icon.classList.toggle("fa-eye-slash");
+        });
+    </script>
+
+</body>
+</html>

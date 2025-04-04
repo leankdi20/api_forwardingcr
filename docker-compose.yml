@@ -1,0 +1,48 @@
+version: "3.9"
+
+services:
+
+  # Django app
+  app:
+    build:
+      context: .
+    ports:
+      - 8001:8000
+    volumes:
+      - ./app:/app
+    command: >
+      sh -c "while ! nc -z db 3306; do sleep 1; done &&
+          python manage.py migrate &&
+          gunicorn --bind 0.0.0.0:8000 --limit-request-line 8190 app.wsgi"
+    environment:
+      - DJANGO_SETTINGS_MODULE=app.settings
+      - DEBUG=0
+    env_file:
+      - ./.env
+    container_name: django_api_forwardingcr
+    depends_on: 
+      - db
+    restart: always
+    labels:
+      - traefik.enable=true
+      - traefik.http.routers.app-http.rule=Host(`api.139.177.206.224.nip.io`)
+      # - traefik.http.routers.app-http.rule=Host(`139.177.206.224.nip.io`)
+      # - traefik.http.routers.app-http.tls=true
+      - traefik.http.services.app.loadbalancer.server.port=8001
+      # - traefik.http.routers.app-http.tls.certresolver=letsencrypt
+
+
+  # Database
+  db:
+    image: mysql:8
+    restart: always
+    volumes:
+      - ./database/lib:/var/lib/mysql
+    env_file:
+      - ./.env
+    container_name: mysql_db_api_forwardingcr
+    ports:
+      - 3307:3306
+    command: ['--character-set-server=utf8mb4', '--collation-server=utf8mb4_unicode_ci','--log-error-verbosity=1']
+
+

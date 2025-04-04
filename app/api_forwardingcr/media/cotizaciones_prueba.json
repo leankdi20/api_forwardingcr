@@ -1,0 +1,2414 @@
+[
+    {
+        "quotation_number": "FCR-00100",
+        "date_time": "2025-04-29",
+        "expiration_date": "2025-05-13",
+        "contact_person": "Sof\u00eda P\u00e9rez",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 2173,
+        "iva_13": 282.49,
+        "total_cotizacion": 2455.49,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #1",
+        "detalle_envio": [
+            {
+                "contact_details": "Sof\u00eda P\u00e9rez, +506 8226 2671",
+                "delivery_address": "Cartago, Costa Rica",
+                "type_of_movement": "Terrestre",
+                "origin": "Bogot\u00e1",
+                "destination": "Cartago"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Herramientas",
+                "gross_weight": 74.47,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "150x78x63",
+                "resultado_volume": 490.66,
+                "volume_weight": 303.95,
+                "iva_boolean": true,
+                "price_service": 1779,
+                "amount_service": 1779
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Seguro",
+                "quantity": 1,
+                "price_charge": 394,
+                "amount_charge": 394
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00101",
+        "date_time": "2025-04-10",
+        "expiration_date": "2025-04-30",
+        "contact_person": "Ana Chaves",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1844,
+        "iva_13": 239.72,
+        "total_cotizacion": 2083.72,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #2",
+        "detalle_envio": [
+            {
+                "contact_details": "Ana Chaves, +506 8925 6800",
+                "delivery_address": "San Jos\u00e9, Costa Rica",
+                "type_of_movement": "Terrestre",
+                "origin": "Bogot\u00e1",
+                "destination": "San Jos\u00e9"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Equipos electr\u00f3nicos",
+                "gross_weight": 69.26,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "150x95x52",
+                "resultado_volume": 113.81,
+                "volume_weight": 93.59,
+                "iva_boolean": true,
+                "price_service": 1339,
+                "amount_service": 1339
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Embalaje",
+                "quantity": 1,
+                "price_charge": 278,
+                "amount_charge": 278
+            },
+            {
+                "description_of_charges": "Aduana",
+                "quantity": 1,
+                "price_charge": 107,
+                "amount_charge": 107
+            },
+            {
+                "description_of_charges": "Aduana",
+                "quantity": 1,
+                "price_charge": 120,
+                "amount_charge": 120
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00102",
+        "date_time": "2025-04-03",
+        "expiration_date": "2025-05-02",
+        "contact_person": "Luc\u00eda Chaves",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1785,
+        "iva_13": 232.05,
+        "total_cotizacion": 2017.05,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #3",
+        "detalle_envio": [
+            {
+                "contact_details": "Luc\u00eda Chaves, +506 8652 3262",
+                "delivery_address": "Cartago, Costa Rica",
+                "type_of_movement": "Mar\u00edtimo",
+                "origin": "Bogot\u00e1",
+                "destination": "Cartago"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Documentos",
+                "gross_weight": 81.75,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "96x70x99",
+                "resultado_volume": 365.71,
+                "volume_weight": 89.58,
+                "iva_boolean": true,
+                "price_service": 919,
+                "amount_service": 919
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Manipulaci\u00f3n",
+                "quantity": 1,
+                "price_charge": 158,
+                "amount_charge": 158
+            },
+            {
+                "description_of_charges": "Aduana",
+                "quantity": 1,
+                "price_charge": 408,
+                "amount_charge": 408
+            },
+            {
+                "description_of_charges": "Aduana",
+                "quantity": 1,
+                "price_charge": 300,
+                "amount_charge": 300
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00103",
+        "date_time": "2025-04-11",
+        "expiration_date": "2025-05-15",
+        "contact_person": "Carlos Ram\u00edrez",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1635,
+        "iva_13": 212.55,
+        "total_cotizacion": 1847.55,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #4",
+        "detalle_envio": [
+            {
+                "contact_details": "Carlos Ram\u00edrez, +506 8386 3699",
+                "delivery_address": "San Jos\u00e9, Costa Rica",
+                "type_of_movement": "Terrestre",
+                "origin": "Ciudad de M\u00e9xico",
+                "destination": "San Jos\u00e9"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Herramientas",
+                "gross_weight": 11.94,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "188x142x90",
+                "resultado_volume": 248.64,
+                "volume_weight": 323.33,
+                "iva_boolean": true,
+                "price_service": 859,
+                "amount_service": 859
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Seguro",
+                "quantity": 1,
+                "price_charge": 195,
+                "amount_charge": 195
+            },
+            {
+                "description_of_charges": "Aduana",
+                "quantity": 1,
+                "price_charge": 128,
+                "amount_charge": 128
+            },
+            {
+                "description_of_charges": "Aduana",
+                "quantity": 1,
+                "price_charge": 453,
+                "amount_charge": 453
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00104",
+        "date_time": "2025-04-04",
+        "expiration_date": "2025-05-15",
+        "contact_person": "Mar\u00eda P\u00e9rez",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1511,
+        "iva_13": 196.43,
+        "total_cotizacion": 1707.43,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #5",
+        "detalle_envio": [
+            {
+                "contact_details": "Mar\u00eda P\u00e9rez, +506 8771 6216",
+                "delivery_address": "Cartago, Costa Rica",
+                "type_of_movement": "Mar\u00edtimo",
+                "origin": "Bogot\u00e1",
+                "destination": "Cartago"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Material promocional",
+                "gross_weight": 17.47,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "70x100x171",
+                "resultado_volume": 280.7,
+                "volume_weight": 229.52,
+                "iva_boolean": true,
+                "price_service": 1309,
+                "amount_service": 1309
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Seguro",
+                "quantity": 1,
+                "price_charge": 202,
+                "amount_charge": 202
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00105",
+        "date_time": "2025-04-27",
+        "expiration_date": "2025-05-11",
+        "contact_person": "Sof\u00eda Ram\u00edrez",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1991,
+        "iva_13": 258.83,
+        "total_cotizacion": 2249.83,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #6",
+        "detalle_envio": [
+            {
+                "contact_details": "Sof\u00eda Ram\u00edrez, +506 8763 7513",
+                "delivery_address": "Alajuela, Costa Rica",
+                "type_of_movement": "Terrestre",
+                "origin": "Ciudad de M\u00e9xico",
+                "destination": "Alajuela"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Equipos electr\u00f3nicos",
+                "gross_weight": 14.77,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "133x165x108",
+                "resultado_volume": 332.41,
+                "volume_weight": 306.45,
+                "iva_boolean": true,
+                "price_service": 1649,
+                "amount_service": 1649
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Manipulaci\u00f3n",
+                "quantity": 1,
+                "price_charge": 342,
+                "amount_charge": 342
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00106",
+        "date_time": "2025-04-25",
+        "expiration_date": "2025-05-08",
+        "contact_person": "Laura Castro",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 2875,
+        "iva_13": 373.75,
+        "total_cotizacion": 3248.75,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #7",
+        "detalle_envio": [
+            {
+                "contact_details": "Laura Castro, +506 8249 3879",
+                "delivery_address": "Lim\u00f3n, Costa Rica",
+                "type_of_movement": "Terrestre",
+                "origin": "Guatemala",
+                "destination": "Lim\u00f3n"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Equipos electr\u00f3nicos",
+                "gross_weight": 90.02,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "104x179x196",
+                "resultado_volume": 453.93,
+                "volume_weight": 179.61,
+                "iva_boolean": true,
+                "price_service": 1852,
+                "amount_service": 1852
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Manipulaci\u00f3n",
+                "quantity": 1,
+                "price_charge": 132,
+                "amount_charge": 132
+            },
+            {
+                "description_of_charges": "Aduana",
+                "quantity": 1,
+                "price_charge": 474,
+                "amount_charge": 474
+            },
+            {
+                "description_of_charges": "Seguro",
+                "quantity": 1,
+                "price_charge": 417,
+                "amount_charge": 417
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00107",
+        "date_time": "2025-04-24",
+        "expiration_date": "2025-05-01",
+        "contact_person": "Luc\u00eda L\u00f3pez",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 2753,
+        "iva_13": 357.89,
+        "total_cotizacion": 3110.89,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #8",
+        "detalle_envio": [
+            {
+                "contact_details": "Luc\u00eda L\u00f3pez, +506 8912 8852",
+                "delivery_address": "Cartago, Costa Rica",
+                "type_of_movement": "Mar\u00edtimo",
+                "origin": "Ciudad de M\u00e9xico",
+                "destination": "Cartago"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Herramientas",
+                "gross_weight": 80.97,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "188x86x189",
+                "resultado_volume": 435.97,
+                "volume_weight": 329.07,
+                "iva_boolean": true,
+                "price_service": 1709,
+                "amount_service": 1709
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Embalaje",
+                "quantity": 1,
+                "price_charge": 206,
+                "amount_charge": 206
+            },
+            {
+                "description_of_charges": "Transporte",
+                "quantity": 1,
+                "price_charge": 345,
+                "amount_charge": 345
+            },
+            {
+                "description_of_charges": "Transporte",
+                "quantity": 1,
+                "price_charge": 493,
+                "amount_charge": 493
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00108",
+        "date_time": "2025-04-15",
+        "expiration_date": "2025-05-03",
+        "contact_person": "Luis P\u00e9rez",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 2241,
+        "iva_13": 291.33,
+        "total_cotizacion": 2532.33,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #9",
+        "detalle_envio": [
+            {
+                "contact_details": "Luis P\u00e9rez, +506 8732 6022",
+                "delivery_address": "Cartago, Costa Rica",
+                "type_of_movement": "A\u00e9reo",
+                "origin": "Miami",
+                "destination": "Cartago"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Herramientas",
+                "gross_weight": 59.51,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "71x87x155",
+                "resultado_volume": 263.75,
+                "volume_weight": 354.06,
+                "iva_boolean": true,
+                "price_service": 1655,
+                "amount_service": 1655
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Transporte",
+                "quantity": 1,
+                "price_charge": 270,
+                "amount_charge": 270
+            },
+            {
+                "description_of_charges": "Embalaje",
+                "quantity": 1,
+                "price_charge": 316,
+                "amount_charge": 316
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00109",
+        "date_time": "2025-04-19",
+        "expiration_date": "2025-05-02",
+        "contact_person": "Mar\u00eda Vargas",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1148,
+        "iva_13": 149.24,
+        "total_cotizacion": 1297.24,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #10",
+        "detalle_envio": [
+            {
+                "contact_details": "Mar\u00eda Vargas, +506 8737 6481",
+                "delivery_address": "San Jos\u00e9, Costa Rica",
+                "type_of_movement": "Terrestre",
+                "origin": "Bogot\u00e1",
+                "destination": "San Jos\u00e9"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Herramientas",
+                "gross_weight": 91.29,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "54x129x94",
+                "resultado_volume": 222.45,
+                "volume_weight": 242.75,
+                "iva_boolean": true,
+                "price_service": 1000,
+                "amount_service": 1000
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Aduana",
+                "quantity": 1,
+                "price_charge": 148,
+                "amount_charge": 148
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00110",
+        "date_time": "2025-04-09",
+        "expiration_date": "2025-05-15",
+        "contact_person": "Diego Castro",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 2174,
+        "iva_13": 282.62,
+        "total_cotizacion": 2456.62,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #11",
+        "detalle_envio": [
+            {
+                "contact_details": "Diego Castro, +506 8513 3739",
+                "delivery_address": "Lim\u00f3n, Costa Rica",
+                "type_of_movement": "Terrestre",
+                "origin": "Panam\u00e1",
+                "destination": "Lim\u00f3n"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Documentos",
+                "gross_weight": 66.42,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "199x186x198",
+                "resultado_volume": 365.43,
+                "volume_weight": 253.16,
+                "iva_boolean": true,
+                "price_service": 1352,
+                "amount_service": 1352
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Aduana",
+                "quantity": 1,
+                "price_charge": 341,
+                "amount_charge": 341
+            },
+            {
+                "description_of_charges": "Manipulaci\u00f3n",
+                "quantity": 1,
+                "price_charge": 362,
+                "amount_charge": 362
+            },
+            {
+                "description_of_charges": "Seguro",
+                "quantity": 1,
+                "price_charge": 119,
+                "amount_charge": 119
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00111",
+        "date_time": "2025-04-15",
+        "expiration_date": "2025-05-04",
+        "contact_person": "Juan L\u00f3pez",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1765,
+        "iva_13": 229.45,
+        "total_cotizacion": 1994.45,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #12",
+        "detalle_envio": [
+            {
+                "contact_details": "Juan L\u00f3pez, +506 8948 2746",
+                "delivery_address": "Heredia, Costa Rica",
+                "type_of_movement": "A\u00e9reo",
+                "origin": "Guatemala",
+                "destination": "Heredia"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Documentos",
+                "gross_weight": 58.09,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "150x166x159",
+                "resultado_volume": 440.2,
+                "volume_weight": 260.75,
+                "iva_boolean": true,
+                "price_service": 1212,
+                "amount_service": 1212
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Aduana",
+                "quantity": 1,
+                "price_charge": 174,
+                "amount_charge": 174
+            },
+            {
+                "description_of_charges": "Aduana",
+                "quantity": 1,
+                "price_charge": 201,
+                "amount_charge": 201
+            },
+            {
+                "description_of_charges": "Seguro",
+                "quantity": 1,
+                "price_charge": 178,
+                "amount_charge": 178
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00112",
+        "date_time": "2025-04-14",
+        "expiration_date": "2025-04-30",
+        "contact_person": "Mar\u00eda Fern\u00e1ndez",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 958,
+        "iva_13": 124.54,
+        "total_cotizacion": 1082.54,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #13",
+        "detalle_envio": [
+            {
+                "contact_details": "Mar\u00eda Fern\u00e1ndez, +506 8626 3962",
+                "delivery_address": "Heredia, Costa Rica",
+                "type_of_movement": "Mar\u00edtimo",
+                "origin": "Ciudad de M\u00e9xico",
+                "destination": "Heredia"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Piezas mec\u00e1nicas",
+                "gross_weight": 96.43,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "195x158x112",
+                "resultado_volume": 205.28,
+                "volume_weight": 324.81,
+                "iva_boolean": true,
+                "price_service": 576,
+                "amount_service": 576
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Manipulaci\u00f3n",
+                "quantity": 1,
+                "price_charge": 382,
+                "amount_charge": 382
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00113",
+        "date_time": "2025-04-01",
+        "expiration_date": "2025-05-06",
+        "contact_person": "Luis Vargas",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1541,
+        "iva_13": 200.33,
+        "total_cotizacion": 1741.33,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #14",
+        "detalle_envio": [
+            {
+                "contact_details": "Luis Vargas, +506 8114 9383",
+                "delivery_address": "Lim\u00f3n, Costa Rica",
+                "type_of_movement": "Terrestre",
+                "origin": "Panam\u00e1",
+                "destination": "Lim\u00f3n"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Equipos electr\u00f3nicos",
+                "gross_weight": 34.36,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "195x110x147",
+                "resultado_volume": 301.23,
+                "volume_weight": 362.69,
+                "iva_boolean": true,
+                "price_service": 831,
+                "amount_service": 831
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Embalaje",
+                "quantity": 1,
+                "price_charge": 406,
+                "amount_charge": 406
+            },
+            {
+                "description_of_charges": "Manipulaci\u00f3n",
+                "quantity": 1,
+                "price_charge": 304,
+                "amount_charge": 304
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00114",
+        "date_time": "2025-04-27",
+        "expiration_date": "2025-05-01",
+        "contact_person": "Carlos Rojas",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 2462,
+        "iva_13": 320.06,
+        "total_cotizacion": 2782.06,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #15",
+        "detalle_envio": [
+            {
+                "contact_details": "Carlos Rojas, +506 8277 7350",
+                "delivery_address": "Cartago, Costa Rica",
+                "type_of_movement": "Terrestre",
+                "origin": "Bogot\u00e1",
+                "destination": "Cartago"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Equipos electr\u00f3nicos",
+                "gross_weight": 96.4,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "63x112x141",
+                "resultado_volume": 172.22,
+                "volume_weight": 280.55,
+                "iva_boolean": true,
+                "price_service": 1636,
+                "amount_service": 1636
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Seguro",
+                "quantity": 1,
+                "price_charge": 364,
+                "amount_charge": 364
+            },
+            {
+                "description_of_charges": "Seguro",
+                "quantity": 1,
+                "price_charge": 462,
+                "amount_charge": 462
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00115",
+        "date_time": "2025-04-14",
+        "expiration_date": "2025-05-03",
+        "contact_person": "Laura Gonz\u00e1lez",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1961,
+        "iva_13": 254.93,
+        "total_cotizacion": 2215.93,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #16",
+        "detalle_envio": [
+            {
+                "contact_details": "Laura Gonz\u00e1lez, +506 8578 2871",
+                "delivery_address": "Heredia, Costa Rica",
+                "type_of_movement": "Mar\u00edtimo",
+                "origin": "Miami",
+                "destination": "Heredia"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Material promocional",
+                "gross_weight": 92.99,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "174x54x117",
+                "resultado_volume": 211.3,
+                "volume_weight": 244.14,
+                "iva_boolean": true,
+                "price_service": 1385,
+                "amount_service": 1385
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Transporte",
+                "quantity": 1,
+                "price_charge": 332,
+                "amount_charge": 332
+            },
+            {
+                "description_of_charges": "Transporte",
+                "quantity": 1,
+                "price_charge": 244,
+                "amount_charge": 244
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00116",
+        "date_time": "2025-04-10",
+        "expiration_date": "2025-05-01",
+        "contact_person": "Juan Mora",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1463,
+        "iva_13": 190.19,
+        "total_cotizacion": 1653.19,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #17",
+        "detalle_envio": [
+            {
+                "contact_details": "Juan Mora, +506 8310 1692",
+                "delivery_address": "Alajuela, Costa Rica",
+                "type_of_movement": "Mar\u00edtimo",
+                "origin": "Ciudad de M\u00e9xico",
+                "destination": "Alajuela"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Material promocional",
+                "gross_weight": 46.02,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "187x200x136",
+                "resultado_volume": 354.56,
+                "volume_weight": 155.03,
+                "iva_boolean": true,
+                "price_service": 1123,
+                "amount_service": 1123
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Aduana",
+                "quantity": 1,
+                "price_charge": 165,
+                "amount_charge": 165
+            },
+            {
+                "description_of_charges": "Aduana",
+                "quantity": 1,
+                "price_charge": 175,
+                "amount_charge": 175
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00117",
+        "date_time": "2025-04-03",
+        "expiration_date": "2025-05-15",
+        "contact_person": "Ana Castro",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 849,
+        "iva_13": 110.37,
+        "total_cotizacion": 959.37,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #18",
+        "detalle_envio": [
+            {
+                "contact_details": "Ana Castro, +506 8659 9844",
+                "delivery_address": "Heredia, Costa Rica",
+                "type_of_movement": "A\u00e9reo",
+                "origin": "Panam\u00e1",
+                "destination": "Heredia"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Herramientas",
+                "gross_weight": 12.88,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "153x146x158",
+                "resultado_volume": 308.13,
+                "volume_weight": 295.83,
+                "iva_boolean": true,
+                "price_service": 539,
+                "amount_service": 539
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Manipulaci\u00f3n",
+                "quantity": 1,
+                "price_charge": 310,
+                "amount_charge": 310
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00118",
+        "date_time": "2025-04-02",
+        "expiration_date": "2025-05-07",
+        "contact_person": "Luc\u00eda Chaves",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1614,
+        "iva_13": 209.82,
+        "total_cotizacion": 1823.82,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #19",
+        "detalle_envio": [
+            {
+                "contact_details": "Luc\u00eda Chaves, +506 8744 9746",
+                "delivery_address": "Lim\u00f3n, Costa Rica",
+                "type_of_movement": "Mar\u00edtimo",
+                "origin": "Ciudad de M\u00e9xico",
+                "destination": "Lim\u00f3n"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Material promocional",
+                "gross_weight": 35.76,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "195x106x167",
+                "resultado_volume": 409.12,
+                "volume_weight": 301.84,
+                "iva_boolean": true,
+                "price_service": 635,
+                "amount_service": 635
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Aduana",
+                "quantity": 1,
+                "price_charge": 353,
+                "amount_charge": 353
+            },
+            {
+                "description_of_charges": "Aduana",
+                "quantity": 1,
+                "price_charge": 326,
+                "amount_charge": 326
+            },
+            {
+                "description_of_charges": "Manipulaci\u00f3n",
+                "quantity": 1,
+                "price_charge": 300,
+                "amount_charge": 300
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00119",
+        "date_time": "2025-04-15",
+        "expiration_date": "2025-05-01",
+        "contact_person": "Ana Vargas",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1643,
+        "iva_13": 213.59,
+        "total_cotizacion": 1856.59,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #20",
+        "detalle_envio": [
+            {
+                "contact_details": "Ana Vargas, +506 8660 1115",
+                "delivery_address": "Cartago, Costa Rica",
+                "type_of_movement": "Terrestre",
+                "origin": "Miami",
+                "destination": "Cartago"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Herramientas",
+                "gross_weight": 59.99,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "145x53x71",
+                "resultado_volume": 392.15,
+                "volume_weight": 113.76,
+                "iva_boolean": true,
+                "price_service": 1149,
+                "amount_service": 1149
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Seguro",
+                "quantity": 1,
+                "price_charge": 494,
+                "amount_charge": 494
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00120",
+        "date_time": "2025-04-14",
+        "expiration_date": "2025-05-05",
+        "contact_person": "Juan Vargas",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 2693,
+        "iva_13": 350.09,
+        "total_cotizacion": 3043.09,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #21",
+        "detalle_envio": [
+            {
+                "contact_details": "Juan Vargas, +506 8654 5057",
+                "delivery_address": "Alajuela, Costa Rica",
+                "type_of_movement": "Mar\u00edtimo",
+                "origin": "Panam\u00e1",
+                "destination": "Alajuela"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Material promocional",
+                "gross_weight": 33.65,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "144x119x78",
+                "resultado_volume": 192.79,
+                "volume_weight": 121.3,
+                "iva_boolean": true,
+                "price_service": 1910,
+                "amount_service": 1910
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Manipulaci\u00f3n",
+                "quantity": 1,
+                "price_charge": 219,
+                "amount_charge": 219
+            },
+            {
+                "description_of_charges": "Transporte",
+                "quantity": 1,
+                "price_charge": 291,
+                "amount_charge": 291
+            },
+            {
+                "description_of_charges": "Aduana",
+                "quantity": 1,
+                "price_charge": 273,
+                "amount_charge": 273
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00121",
+        "date_time": "2025-04-03",
+        "expiration_date": "2025-05-02",
+        "contact_person": "Ana Gonz\u00e1lez",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1396,
+        "iva_13": 181.48,
+        "total_cotizacion": 1577.48,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #22",
+        "detalle_envio": [
+            {
+                "contact_details": "Ana Gonz\u00e1lez, +506 8840 3647",
+                "delivery_address": "Lim\u00f3n, Costa Rica",
+                "type_of_movement": "Mar\u00edtimo",
+                "origin": "Ciudad de M\u00e9xico",
+                "destination": "Lim\u00f3n"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Documentos",
+                "gross_weight": 30.7,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "183x61x78",
+                "resultado_volume": 499.8,
+                "volume_weight": 174.52,
+                "iva_boolean": true,
+                "price_service": 1283,
+                "amount_service": 1283
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Transporte",
+                "quantity": 1,
+                "price_charge": 113,
+                "amount_charge": 113
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00122",
+        "date_time": "2025-04-06",
+        "expiration_date": "2025-05-11",
+        "contact_person": "Sof\u00eda L\u00f3pez",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1536,
+        "iva_13": 199.68,
+        "total_cotizacion": 1735.68,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #23",
+        "detalle_envio": [
+            {
+                "contact_details": "Sof\u00eda L\u00f3pez, +506 8103 6755",
+                "delivery_address": "San Jos\u00e9, Costa Rica",
+                "type_of_movement": "Terrestre",
+                "origin": "Panam\u00e1",
+                "destination": "San Jos\u00e9"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Piezas mec\u00e1nicas",
+                "gross_weight": 44.14,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "177x133x89",
+                "resultado_volume": 142.93,
+                "volume_weight": 292.61,
+                "iva_boolean": true,
+                "price_service": 1093,
+                "amount_service": 1093
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Seguro",
+                "quantity": 1,
+                "price_charge": 443,
+                "amount_charge": 443
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00123",
+        "date_time": "2025-04-17",
+        "expiration_date": "2025-05-12",
+        "contact_person": "Luc\u00eda Gonz\u00e1lez",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 2235,
+        "iva_13": 290.55,
+        "total_cotizacion": 2525.55,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #24",
+        "detalle_envio": [
+            {
+                "contact_details": "Luc\u00eda Gonz\u00e1lez, +506 8850 1287",
+                "delivery_address": "Cartago, Costa Rica",
+                "type_of_movement": "Terrestre",
+                "origin": "Miami",
+                "destination": "Cartago"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Equipos electr\u00f3nicos",
+                "gross_weight": 72.08,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "135x119x120",
+                "resultado_volume": 291.93,
+                "volume_weight": 196.87,
+                "iva_boolean": true,
+                "price_service": 1855,
+                "amount_service": 1855
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Embalaje",
+                "quantity": 1,
+                "price_charge": 233,
+                "amount_charge": 233
+            },
+            {
+                "description_of_charges": "Transporte",
+                "quantity": 1,
+                "price_charge": 147,
+                "amount_charge": 147
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00124",
+        "date_time": "2025-04-18",
+        "expiration_date": "2025-05-01",
+        "contact_person": "Laura Vargas",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1654,
+        "iva_13": 215.02,
+        "total_cotizacion": 1869.02,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #25",
+        "detalle_envio": [
+            {
+                "contact_details": "Laura Vargas, +506 8837 8921",
+                "delivery_address": "Heredia, Costa Rica",
+                "type_of_movement": "Mar\u00edtimo",
+                "origin": "Ciudad de M\u00e9xico",
+                "destination": "Heredia"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Equipos electr\u00f3nicos",
+                "gross_weight": 29.04,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "102x116x171",
+                "resultado_volume": 481.6,
+                "volume_weight": 140.66,
+                "iva_boolean": true,
+                "price_service": 1148,
+                "amount_service": 1148
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Manipulaci\u00f3n",
+                "quantity": 1,
+                "price_charge": 196,
+                "amount_charge": 196
+            },
+            {
+                "description_of_charges": "Embalaje",
+                "quantity": 1,
+                "price_charge": 310,
+                "amount_charge": 310
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00125",
+        "date_time": "2025-04-30",
+        "expiration_date": "2025-05-04",
+        "contact_person": "Pedro Fern\u00e1ndez",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 2721,
+        "iva_13": 353.73,
+        "total_cotizacion": 3074.73,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #26",
+        "detalle_envio": [
+            {
+                "contact_details": "Pedro Fern\u00e1ndez, +506 8204 9251",
+                "delivery_address": "San Jos\u00e9, Costa Rica",
+                "type_of_movement": "Mar\u00edtimo",
+                "origin": "Guatemala",
+                "destination": "San Jos\u00e9"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Documentos",
+                "gross_weight": 95.02,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "95x151x71",
+                "resultado_volume": 451.14,
+                "volume_weight": 169.83,
+                "iva_boolean": true,
+                "price_service": 1739,
+                "amount_service": 1739
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Manipulaci\u00f3n",
+                "quantity": 1,
+                "price_charge": 482,
+                "amount_charge": 482
+            },
+            {
+                "description_of_charges": "Transporte",
+                "quantity": 1,
+                "price_charge": 288,
+                "amount_charge": 288
+            },
+            {
+                "description_of_charges": "Seguro",
+                "quantity": 1,
+                "price_charge": 212,
+                "amount_charge": 212
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00126",
+        "date_time": "2025-04-01",
+        "expiration_date": "2025-05-15",
+        "contact_person": "Laura Vargas",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 2147,
+        "iva_13": 279.11,
+        "total_cotizacion": 2426.11,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #27",
+        "detalle_envio": [
+            {
+                "contact_details": "Laura Vargas, +506 8537 9440",
+                "delivery_address": "Alajuela, Costa Rica",
+                "type_of_movement": "Mar\u00edtimo",
+                "origin": "Panam\u00e1",
+                "destination": "Alajuela"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Herramientas",
+                "gross_weight": 40.64,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "124x194x192",
+                "resultado_volume": 316.45,
+                "volume_weight": 149.77,
+                "iva_boolean": true,
+                "price_service": 1240,
+                "amount_service": 1240
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Transporte",
+                "quantity": 1,
+                "price_charge": 414,
+                "amount_charge": 414
+            },
+            {
+                "description_of_charges": "Manipulaci\u00f3n",
+                "quantity": 1,
+                "price_charge": 365,
+                "amount_charge": 365
+            },
+            {
+                "description_of_charges": "Embalaje",
+                "quantity": 1,
+                "price_charge": 128,
+                "amount_charge": 128
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00127",
+        "date_time": "2025-04-30",
+        "expiration_date": "2025-05-14",
+        "contact_person": "Diego Mora",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1408,
+        "iva_13": 183.04,
+        "total_cotizacion": 1591.04,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #28",
+        "detalle_envio": [
+            {
+                "contact_details": "Diego Mora, +506 8947 2469",
+                "delivery_address": "Lim\u00f3n, Costa Rica",
+                "type_of_movement": "A\u00e9reo",
+                "origin": "Ciudad de M\u00e9xico",
+                "destination": "Lim\u00f3n"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Material promocional",
+                "gross_weight": 95.78,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "172x105x63",
+                "resultado_volume": 398.38,
+                "volume_weight": 98.77,
+                "iva_boolean": true,
+                "price_service": 779,
+                "amount_service": 779
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Transporte",
+                "quantity": 1,
+                "price_charge": 327,
+                "amount_charge": 327
+            },
+            {
+                "description_of_charges": "Seguro",
+                "quantity": 1,
+                "price_charge": 302,
+                "amount_charge": 302
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00128",
+        "date_time": "2025-04-24",
+        "expiration_date": "2025-05-08",
+        "contact_person": "Juan Vargas",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 2305,
+        "iva_13": 299.65,
+        "total_cotizacion": 2604.65,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #29",
+        "detalle_envio": [
+            {
+                "contact_details": "Juan Vargas, +506 8460 6231",
+                "delivery_address": "Lim\u00f3n, Costa Rica",
+                "type_of_movement": "Terrestre",
+                "origin": "Ciudad de M\u00e9xico",
+                "destination": "Lim\u00f3n"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Piezas mec\u00e1nicas",
+                "gross_weight": 57.65,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "143x82x150",
+                "resultado_volume": 161.01,
+                "volume_weight": 98.79,
+                "iva_boolean": true,
+                "price_service": 1826,
+                "amount_service": 1826
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Aduana",
+                "quantity": 1,
+                "price_charge": 479,
+                "amount_charge": 479
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00129",
+        "date_time": "2025-04-24",
+        "expiration_date": "2025-05-04",
+        "contact_person": "Sof\u00eda Mora",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1329,
+        "iva_13": 172.77,
+        "total_cotizacion": 1501.77,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #30",
+        "detalle_envio": [
+            {
+                "contact_details": "Sof\u00eda Mora, +506 8212 1658",
+                "delivery_address": "San Jos\u00e9, Costa Rica",
+                "type_of_movement": "A\u00e9reo",
+                "origin": "Bogot\u00e1",
+                "destination": "San Jos\u00e9"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Documentos",
+                "gross_weight": 49.49,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "137x125x69",
+                "resultado_volume": 495.51,
+                "volume_weight": 305.4,
+                "iva_boolean": true,
+                "price_service": 1112,
+                "amount_service": 1112
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Transporte",
+                "quantity": 1,
+                "price_charge": 217,
+                "amount_charge": 217
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00130",
+        "date_time": "2025-04-04",
+        "expiration_date": "2025-05-10",
+        "contact_person": "Sof\u00eda Rojas",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1290,
+        "iva_13": 167.7,
+        "total_cotizacion": 1457.7,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #31",
+        "detalle_envio": [
+            {
+                "contact_details": "Sof\u00eda Rojas, +506 8791 4768",
+                "delivery_address": "Lim\u00f3n, Costa Rica",
+                "type_of_movement": "Terrestre",
+                "origin": "Panam\u00e1",
+                "destination": "Lim\u00f3n"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Herramientas",
+                "gross_weight": 58.0,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "170x193x149",
+                "resultado_volume": 244.51,
+                "volume_weight": 372.01,
+                "iva_boolean": true,
+                "price_service": 827,
+                "amount_service": 827
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Aduana",
+                "quantity": 1,
+                "price_charge": 222,
+                "amount_charge": 222
+            },
+            {
+                "description_of_charges": "Transporte",
+                "quantity": 1,
+                "price_charge": 117,
+                "amount_charge": 117
+            },
+            {
+                "description_of_charges": "Transporte",
+                "quantity": 1,
+                "price_charge": 124,
+                "amount_charge": 124
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00131",
+        "date_time": "2025-04-22",
+        "expiration_date": "2025-05-03",
+        "contact_person": "Pedro P\u00e9rez",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 2162,
+        "iva_13": 281.06,
+        "total_cotizacion": 2443.06,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #32",
+        "detalle_envio": [
+            {
+                "contact_details": "Pedro P\u00e9rez, +506 8929 8759",
+                "delivery_address": "San Jos\u00e9, Costa Rica",
+                "type_of_movement": "Mar\u00edtimo",
+                "origin": "Bogot\u00e1",
+                "destination": "San Jos\u00e9"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Material promocional",
+                "gross_weight": 70.85,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "149x56x176",
+                "resultado_volume": 133.57,
+                "volume_weight": 145.72,
+                "iva_boolean": true,
+                "price_service": 1866,
+                "amount_service": 1866
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Manipulaci\u00f3n",
+                "quantity": 1,
+                "price_charge": 296,
+                "amount_charge": 296
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00132",
+        "date_time": "2025-04-03",
+        "expiration_date": "2025-05-14",
+        "contact_person": "Luis Castro",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 2099,
+        "iva_13": 272.87,
+        "total_cotizacion": 2371.87,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #33",
+        "detalle_envio": [
+            {
+                "contact_details": "Luis Castro, +506 8399 2551",
+                "delivery_address": "Heredia, Costa Rica",
+                "type_of_movement": "Terrestre",
+                "origin": "Miami",
+                "destination": "Heredia"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Herramientas",
+                "gross_weight": 94.83,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "111x62x51",
+                "resultado_volume": 455.33,
+                "volume_weight": 322.67,
+                "iva_boolean": true,
+                "price_service": 1145,
+                "amount_service": 1145
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Seguro",
+                "quantity": 1,
+                "price_charge": 200,
+                "amount_charge": 200
+            },
+            {
+                "description_of_charges": "Seguro",
+                "quantity": 1,
+                "price_charge": 412,
+                "amount_charge": 412
+            },
+            {
+                "description_of_charges": "Aduana",
+                "quantity": 1,
+                "price_charge": 342,
+                "amount_charge": 342
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00133",
+        "date_time": "2025-04-23",
+        "expiration_date": "2025-05-12",
+        "contact_person": "Mar\u00eda Fern\u00e1ndez",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1230,
+        "iva_13": 159.9,
+        "total_cotizacion": 1389.9,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #34",
+        "detalle_envio": [
+            {
+                "contact_details": "Mar\u00eda Fern\u00e1ndez, +506 8763 8487",
+                "delivery_address": "Alajuela, Costa Rica",
+                "type_of_movement": "A\u00e9reo",
+                "origin": "Guatemala",
+                "destination": "Alajuela"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Equipos electr\u00f3nicos",
+                "gross_weight": 26.47,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "117x79x150",
+                "resultado_volume": 458.91,
+                "volume_weight": 239.45,
+                "iva_boolean": true,
+                "price_service": 784,
+                "amount_service": 784
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Embalaje",
+                "quantity": 1,
+                "price_charge": 244,
+                "amount_charge": 244
+            },
+            {
+                "description_of_charges": "Aduana",
+                "quantity": 1,
+                "price_charge": 202,
+                "amount_charge": 202
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00134",
+        "date_time": "2025-04-07",
+        "expiration_date": "2025-05-05",
+        "contact_person": "Juan Castro",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1446,
+        "iva_13": 187.98,
+        "total_cotizacion": 1633.98,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #35",
+        "detalle_envio": [
+            {
+                "contact_details": "Juan Castro, +506 8394 4933",
+                "delivery_address": "Alajuela, Costa Rica",
+                "type_of_movement": "Mar\u00edtimo",
+                "origin": "Bogot\u00e1",
+                "destination": "Alajuela"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Herramientas",
+                "gross_weight": 43.82,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "164x80x160",
+                "resultado_volume": 124.13,
+                "volume_weight": 81.36,
+                "iva_boolean": true,
+                "price_service": 1004,
+                "amount_service": 1004
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Seguro",
+                "quantity": 1,
+                "price_charge": 112,
+                "amount_charge": 112
+            },
+            {
+                "description_of_charges": "Embalaje",
+                "quantity": 1,
+                "price_charge": 206,
+                "amount_charge": 206
+            },
+            {
+                "description_of_charges": "Transporte",
+                "quantity": 1,
+                "price_charge": 124,
+                "amount_charge": 124
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00135",
+        "date_time": "2025-04-14",
+        "expiration_date": "2025-05-09",
+        "contact_person": "Luis Vargas",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 982,
+        "iva_13": 127.66,
+        "total_cotizacion": 1109.66,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #36",
+        "detalle_envio": [
+            {
+                "contact_details": "Luis Vargas, +506 8654 1960",
+                "delivery_address": "Heredia, Costa Rica",
+                "type_of_movement": "A\u00e9reo",
+                "origin": "Panam\u00e1",
+                "destination": "Heredia"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Herramientas",
+                "gross_weight": 86.6,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "188x188x175",
+                "resultado_volume": 362.33,
+                "volume_weight": 273.28,
+                "iva_boolean": true,
+                "price_service": 550,
+                "amount_service": 550
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Seguro",
+                "quantity": 1,
+                "price_charge": 432,
+                "amount_charge": 432
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00136",
+        "date_time": "2025-04-06",
+        "expiration_date": "2025-05-15",
+        "contact_person": "Pedro Ram\u00edrez",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1980,
+        "iva_13": 257.4,
+        "total_cotizacion": 2237.4,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #37",
+        "detalle_envio": [
+            {
+                "contact_details": "Pedro Ram\u00edrez, +506 8943 9552",
+                "delivery_address": "Alajuela, Costa Rica",
+                "type_of_movement": "A\u00e9reo",
+                "origin": "Panam\u00e1",
+                "destination": "Alajuela"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Material promocional",
+                "gross_weight": 93.25,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "170x150x91",
+                "resultado_volume": 463.82,
+                "volume_weight": 190.69,
+                "iva_boolean": true,
+                "price_service": 924,
+                "amount_service": 924
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Seguro",
+                "quantity": 1,
+                "price_charge": 487,
+                "amount_charge": 487
+            },
+            {
+                "description_of_charges": "Seguro",
+                "quantity": 1,
+                "price_charge": 106,
+                "amount_charge": 106
+            },
+            {
+                "description_of_charges": "Manipulaci\u00f3n",
+                "quantity": 1,
+                "price_charge": 463,
+                "amount_charge": 463
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00137",
+        "date_time": "2025-04-17",
+        "expiration_date": "2025-04-30",
+        "contact_person": "Ana Fern\u00e1ndez",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1703,
+        "iva_13": 221.39,
+        "total_cotizacion": 1924.3899999999999,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #38",
+        "detalle_envio": [
+            {
+                "contact_details": "Ana Fern\u00e1ndez, +506 8798 8447",
+                "delivery_address": "Lim\u00f3n, Costa Rica",
+                "type_of_movement": "A\u00e9reo",
+                "origin": "Panam\u00e1",
+                "destination": "Lim\u00f3n"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Piezas mec\u00e1nicas",
+                "gross_weight": 63.07,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "199x77x128",
+                "resultado_volume": 118.97,
+                "volume_weight": 361.23,
+                "iva_boolean": true,
+                "price_service": 566,
+                "amount_service": 566
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Seguro",
+                "quantity": 1,
+                "price_charge": 365,
+                "amount_charge": 365
+            },
+            {
+                "description_of_charges": "Aduana",
+                "quantity": 1,
+                "price_charge": 500,
+                "amount_charge": 500
+            },
+            {
+                "description_of_charges": "Embalaje",
+                "quantity": 1,
+                "price_charge": 272,
+                "amount_charge": 272
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00138",
+        "date_time": "2025-04-14",
+        "expiration_date": "2025-05-05",
+        "contact_person": "Ana Mora",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 2385,
+        "iva_13": 310.05,
+        "total_cotizacion": 2695.05,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #39",
+        "detalle_envio": [
+            {
+                "contact_details": "Ana Mora, +506 8290 4033",
+                "delivery_address": "Heredia, Costa Rica",
+                "type_of_movement": "A\u00e9reo",
+                "origin": "Panam\u00e1",
+                "destination": "Heredia"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Equipos electr\u00f3nicos",
+                "gross_weight": 94.47,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "103x188x174",
+                "resultado_volume": 310.87,
+                "volume_weight": 105.8,
+                "iva_boolean": true,
+                "price_service": 1777,
+                "amount_service": 1777
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Transporte",
+                "quantity": 1,
+                "price_charge": 239,
+                "amount_charge": 239
+            },
+            {
+                "description_of_charges": "Manipulaci\u00f3n",
+                "quantity": 1,
+                "price_charge": 369,
+                "amount_charge": 369
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00139",
+        "date_time": "2025-04-20",
+        "expiration_date": "2025-05-02",
+        "contact_person": "Diego Chaves",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 2646,
+        "iva_13": 343.98,
+        "total_cotizacion": 2989.98,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #40",
+        "detalle_envio": [
+            {
+                "contact_details": "Diego Chaves, +506 8504 9568",
+                "delivery_address": "Lim\u00f3n, Costa Rica",
+                "type_of_movement": "Mar\u00edtimo",
+                "origin": "Ciudad de M\u00e9xico",
+                "destination": "Lim\u00f3n"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Equipos electr\u00f3nicos",
+                "gross_weight": 89.42,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "67x107x178",
+                "resultado_volume": 135.04,
+                "volume_weight": 257.35,
+                "iva_boolean": true,
+                "price_service": 1932,
+                "amount_service": 1932
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Embalaje",
+                "quantity": 1,
+                "price_charge": 451,
+                "amount_charge": 451
+            },
+            {
+                "description_of_charges": "Aduana",
+                "quantity": 1,
+                "price_charge": 263,
+                "amount_charge": 263
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00140",
+        "date_time": "2025-04-07",
+        "expiration_date": "2025-04-30",
+        "contact_person": "Diego Vargas",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1545,
+        "iva_13": 200.85,
+        "total_cotizacion": 1745.85,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #41",
+        "detalle_envio": [
+            {
+                "contact_details": "Diego Vargas, +506 8996 6696",
+                "delivery_address": "Lim\u00f3n, Costa Rica",
+                "type_of_movement": "Terrestre",
+                "origin": "Guatemala",
+                "destination": "Lim\u00f3n"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Herramientas",
+                "gross_weight": 33.31,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "50x65x184",
+                "resultado_volume": 442.99,
+                "volume_weight": 114.63,
+                "iva_boolean": true,
+                "price_service": 1342,
+                "amount_service": 1342
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Seguro",
+                "quantity": 1,
+                "price_charge": 103,
+                "amount_charge": 103
+            },
+            {
+                "description_of_charges": "Seguro",
+                "quantity": 1,
+                "price_charge": 100,
+                "amount_charge": 100
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00141",
+        "date_time": "2025-04-23",
+        "expiration_date": "2025-05-02",
+        "contact_person": "Sof\u00eda Vargas",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1315,
+        "iva_13": 170.95,
+        "total_cotizacion": 1485.95,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #42",
+        "detalle_envio": [
+            {
+                "contact_details": "Sof\u00eda Vargas, +506 8794 7033",
+                "delivery_address": "Lim\u00f3n, Costa Rica",
+                "type_of_movement": "Terrestre",
+                "origin": "Miami",
+                "destination": "Lim\u00f3n"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Piezas mec\u00e1nicas",
+                "gross_weight": 33.03,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "80x125x154",
+                "resultado_volume": 462.75,
+                "volume_weight": 344.76,
+                "iva_boolean": true,
+                "price_service": 734,
+                "amount_service": 734
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Transporte",
+                "quantity": 1,
+                "price_charge": 434,
+                "amount_charge": 434
+            },
+            {
+                "description_of_charges": "Seguro",
+                "quantity": 1,
+                "price_charge": 147,
+                "amount_charge": 147
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00142",
+        "date_time": "2025-04-30",
+        "expiration_date": "2025-05-04",
+        "contact_person": "Luis L\u00f3pez",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 2075,
+        "iva_13": 269.75,
+        "total_cotizacion": 2344.75,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #43",
+        "detalle_envio": [
+            {
+                "contact_details": "Luis L\u00f3pez, +506 8379 6983",
+                "delivery_address": "San Jos\u00e9, Costa Rica",
+                "type_of_movement": "A\u00e9reo",
+                "origin": "Ciudad de M\u00e9xico",
+                "destination": "San Jos\u00e9"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Piezas mec\u00e1nicas",
+                "gross_weight": 86.34,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "81x104x98",
+                "resultado_volume": 119.28,
+                "volume_weight": 188.74,
+                "iva_boolean": true,
+                "price_service": 1662,
+                "amount_service": 1662
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Embalaje",
+                "quantity": 1,
+                "price_charge": 413,
+                "amount_charge": 413
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00143",
+        "date_time": "2025-04-22",
+        "expiration_date": "2025-05-10",
+        "contact_person": "Sof\u00eda P\u00e9rez",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 2153,
+        "iva_13": 279.89,
+        "total_cotizacion": 2432.89,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #44",
+        "detalle_envio": [
+            {
+                "contact_details": "Sof\u00eda P\u00e9rez, +506 8849 8765",
+                "delivery_address": "San Jos\u00e9, Costa Rica",
+                "type_of_movement": "Terrestre",
+                "origin": "Ciudad de M\u00e9xico",
+                "destination": "San Jos\u00e9"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Equipos electr\u00f3nicos",
+                "gross_weight": 89.31,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "93x148x136",
+                "resultado_volume": 301.65,
+                "volume_weight": 278.96,
+                "iva_boolean": true,
+                "price_service": 1822,
+                "amount_service": 1822
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Embalaje",
+                "quantity": 1,
+                "price_charge": 331,
+                "amount_charge": 331
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00144",
+        "date_time": "2025-04-27",
+        "expiration_date": "2025-05-07",
+        "contact_person": "Sof\u00eda Mora",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1947,
+        "iva_13": 253.11,
+        "total_cotizacion": 2200.11,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #45",
+        "detalle_envio": [
+            {
+                "contact_details": "Sof\u00eda Mora, +506 8547 5639",
+                "delivery_address": "Cartago, Costa Rica",
+                "type_of_movement": "Mar\u00edtimo",
+                "origin": "Bogot\u00e1",
+                "destination": "Cartago"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Equipos electr\u00f3nicos",
+                "gross_weight": 17.21,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "169x118x56",
+                "resultado_volume": 159.19,
+                "volume_weight": 197.01,
+                "iva_boolean": true,
+                "price_service": 1428,
+                "amount_service": 1428
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Manipulaci\u00f3n",
+                "quantity": 1,
+                "price_charge": 158,
+                "amount_charge": 158
+            },
+            {
+                "description_of_charges": "Transporte",
+                "quantity": 1,
+                "price_charge": 361,
+                "amount_charge": 361
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00145",
+        "date_time": "2025-04-08",
+        "expiration_date": "2025-05-03",
+        "contact_person": "Pedro P\u00e9rez",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 2635,
+        "iva_13": 342.55,
+        "total_cotizacion": 2977.55,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #46",
+        "detalle_envio": [
+            {
+                "contact_details": "Pedro P\u00e9rez, +506 8207 9741",
+                "delivery_address": "San Jos\u00e9, Costa Rica",
+                "type_of_movement": "Terrestre",
+                "origin": "Guatemala",
+                "destination": "San Jos\u00e9"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Equipos electr\u00f3nicos",
+                "gross_weight": 64.74,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "62x80x101",
+                "resultado_volume": 312.03,
+                "volume_weight": 131.16,
+                "iva_boolean": true,
+                "price_service": 1998,
+                "amount_service": 1998
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Seguro",
+                "quantity": 1,
+                "price_charge": 250,
+                "amount_charge": 250
+            },
+            {
+                "description_of_charges": "Transporte",
+                "quantity": 1,
+                "price_charge": 387,
+                "amount_charge": 387
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00146",
+        "date_time": "2025-04-04",
+        "expiration_date": "2025-05-07",
+        "contact_person": "Mar\u00eda Chaves",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1736,
+        "iva_13": 225.68,
+        "total_cotizacion": 1961.68,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #47",
+        "detalle_envio": [
+            {
+                "contact_details": "Mar\u00eda Chaves, +506 8507 3897",
+                "delivery_address": "Heredia, Costa Rica",
+                "type_of_movement": "A\u00e9reo",
+                "origin": "Panam\u00e1",
+                "destination": "Heredia"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Herramientas",
+                "gross_weight": 32.09,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "147x190x176",
+                "resultado_volume": 128.49,
+                "volume_weight": 126.71,
+                "iva_boolean": true,
+                "price_service": 840,
+                "amount_service": 840
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Transporte",
+                "quantity": 1,
+                "price_charge": 117,
+                "amount_charge": 117
+            },
+            {
+                "description_of_charges": "Transporte",
+                "quantity": 1,
+                "price_charge": 495,
+                "amount_charge": 495
+            },
+            {
+                "description_of_charges": "Embalaje",
+                "quantity": 1,
+                "price_charge": 284,
+                "amount_charge": 284
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00147",
+        "date_time": "2025-04-10",
+        "expiration_date": "2025-04-30",
+        "contact_person": "Ana Mora",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 2031,
+        "iva_13": 264.03,
+        "total_cotizacion": 2295.0299999999997,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #48",
+        "detalle_envio": [
+            {
+                "contact_details": "Ana Mora, +506 8239 1485",
+                "delivery_address": "Cartago, Costa Rica",
+                "type_of_movement": "Mar\u00edtimo",
+                "origin": "Ciudad de M\u00e9xico",
+                "destination": "Cartago"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Equipos electr\u00f3nicos",
+                "gross_weight": 15.24,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "137x126x72",
+                "resultado_volume": 173.93,
+                "volume_weight": 352.71,
+                "iva_boolean": true,
+                "price_service": 891,
+                "amount_service": 891
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Manipulaci\u00f3n",
+                "quantity": 1,
+                "price_charge": 202,
+                "amount_charge": 202
+            },
+            {
+                "description_of_charges": "Manipulaci\u00f3n",
+                "quantity": 1,
+                "price_charge": 454,
+                "amount_charge": 454
+            },
+            {
+                "description_of_charges": "Manipulaci\u00f3n",
+                "quantity": 1,
+                "price_charge": 484,
+                "amount_charge": 484
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00148",
+        "date_time": "2025-04-11",
+        "expiration_date": "2025-05-02",
+        "contact_person": "Luc\u00eda Vargas",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 2435,
+        "iva_13": 316.55,
+        "total_cotizacion": 2751.55,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #49",
+        "detalle_envio": [
+            {
+                "contact_details": "Luc\u00eda Vargas, +506 8284 5779",
+                "delivery_address": "Heredia, Costa Rica",
+                "type_of_movement": "Terrestre",
+                "origin": "Guatemala",
+                "destination": "Heredia"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Documentos",
+                "gross_weight": 47.23,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "150x196x172",
+                "resultado_volume": 206.96,
+                "volume_weight": 374.51,
+                "iva_boolean": true,
+                "price_service": 1975,
+                "amount_service": 1975
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Seguro",
+                "quantity": 1,
+                "price_charge": 460,
+                "amount_charge": 460
+            }
+        ]
+    },
+    {
+        "quotation_number": "FCR-00149",
+        "date_time": "2025-04-23",
+        "expiration_date": "2025-05-06",
+        "contact_person": "Juan Rojas",
+        "estado_cotizacion": true,
+        "subtotal_cotizacion": 1686,
+        "iva_13": 219.18,
+        "total_cotizacion": 1905.18,
+        "notes": "Cotizaci\u00f3n de prueba generada autom\u00e1ticamente #50",
+        "detalle_envio": [
+            {
+                "contact_details": "Juan Rojas, +506 8683 8999",
+                "delivery_address": "San Jos\u00e9, Costa Rica",
+                "type_of_movement": "Terrestre",
+                "origin": "Panam\u00e1",
+                "destination": "San Jos\u00e9"
+            }
+        ],
+        "informacion_servicio": [
+            {
+                "package": 1,
+                "description": "Herramientas",
+                "gross_weight": 61.67,
+                "type_volume": "C\u00fabico",
+                "metroCubicoVolumen": "198x56x135",
+                "resultado_volume": 338.21,
+                "volume_weight": 81.22,
+                "iva_boolean": true,
+                "price_service": 951,
+                "amount_service": 951
+            }
+        ],
+        "cargo_servicio": [
+            {
+                "description_of_charges": "Embalaje",
+                "quantity": 1,
+                "price_charge": 481,
+                "amount_charge": 481
+            },
+            {
+                "description_of_charges": "Embalaje",
+                "quantity": 1,
+                "price_charge": 254,
+                "amount_charge": 254
+            }
+        ]
+    }
+]

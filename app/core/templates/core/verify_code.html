@@ -1,0 +1,53 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verificación de Código</title>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css">
+    
+    <!-- CSS Personalizado -->
+    
+    <link href="{% static 'css/verify.css' %}" rel="stylesheet" type="text/css"> 
+    <style>
+        
+    </style>
+    
+</head>
+<body class="bg-light">
+    <div class="verify-container">
+        <div class="verify-box">
+            <h2 class="mb-3">Verificación de Código</h2>
+            <p>Hemos enviado un código de seguridad a tu correo electrónico.</p>
+
+            <!-- Formulario para ingresar el código -->
+            <form method="POST" id="verify-code-form">
+                {% csrf_token %}
+
+                <div class="mb-3">
+                    <label class="form-label">Código de seguridad</label>
+                    <input type="text" class="form-control text-center" name="code" placeholder="0000" required maxlength="4">
+                </div>
+
+                <!-- Mostrar errores si el código es incorrecto -->
+                {% if error %}
+                    <div class="alert alert-danger">
+                        {{ error }}
+                    </div>
+                {% endif %}
+
+                <button type="submit" class="btn btn-primary btn-verify">Verificar</button>
+            </form>
+
+            <p class="mt-3">
+                <a href="{% url 'login' %}" class="text-muted">Regresar al login</a>
+            </p>
+        </div>
+    </div>
+
+</body>
+</html>
+
