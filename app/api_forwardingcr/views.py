@@ -15,9 +15,10 @@ class CotizacionViewSet(viewsets.ModelViewSet):
         contact_person = self.request.GET.get("contact_person")
 
         if quotation_number:
-            queryset = queryset.filter(quotation_number=quotation_number)
+            queryset = queryset.filter(quotation_number__icontains=quotation_number)
         if contact_person:
             queryset = queryset.filter(contact_person__icontains=contact_person)
+
         return queryset
     
 
@@ -33,10 +34,10 @@ class CotizacionVer(mixins.RetrieveModelMixin,mixins.ListModelMixin,viewsets.Gen
         contact_person = self.request.GET.get("contact_person")
 
         if(quotation_number):
-            query = query.filter(quotation_number= quotation_number)
+            query = query.filter(quotation_number__icontains= quotation_number)
 
         if (contact_person):
-            query = query.filter(contact_person = contact_person)
+            query = query.filter(contact_person__icontains = contact_person)
     
 
         return query.all()
