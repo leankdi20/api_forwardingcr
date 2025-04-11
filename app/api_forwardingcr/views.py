@@ -4,6 +4,8 @@ from django.shortcuts import render
 from rest_framework import viewsets, mixins,views
 from .models import Cotizacion, DetailDelivery, ServiceInformation, chargeService
 from .serializers import CotizacionSerializer, DetailDeliverySerializer, ServiceInformationSerializer, ChargeServiceSerializer, CotizacionReadSerializer
+from rest_framework_datatables.pagination import DatatablesPageNumberPagination
+from rest_framework_datatables.filters import DatatablesFilterBackend
 
 class CotizacionViewSet(viewsets.ModelViewSet):
     queryset = Cotizacion.objects.all()
@@ -25,6 +27,8 @@ class CotizacionViewSet(viewsets.ModelViewSet):
 class CotizacionVer(mixins.RetrieveModelMixin,mixins.ListModelMixin,viewsets.GenericViewSet):
     queryset= Cotizacion.objects.all()
     serializer_class = CotizacionReadSerializer
+    pagination_class = DatatablesPageNumberPagination
+    filter_backends = [DatatablesFilterBackend]
 
     def get_queryset(self):
 
