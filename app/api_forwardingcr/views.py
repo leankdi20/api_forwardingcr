@@ -10,6 +10,8 @@ from rest_framework_datatables.filters import DatatablesFilterBackend
 class CotizacionViewSet(viewsets.ModelViewSet):
     queryset = Cotizacion.objects.all()
     serializer_class = CotizacionSerializer
+    pagination_class = DatatablesPageNumberPagination  # ✅
+    filter_backends = [DatatablesFilterBackend]
 
     def get_queryset(self):
         queryset = super().get_queryset()
